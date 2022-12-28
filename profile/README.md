@@ -12,7 +12,7 @@
 
 - :dna: Our repositories are a blend of research work coming out of our investigations and experimentations.
 
-- :newspaper: If you like to learn more about me, please visit [our website](https://complightlab.com) or follow us on [Twitter](https://twitter.com/kaanaksit).
+- :newspaper: If you like to learn more about our group, please visit [our website](https://complightlab.com) or follow us on [Twitter](https://twitter.com/kaanaksit).
 
 - :dollar: If you find our causes worthy, please consider supporting our work through [sponsorship](https://github.com/sponsors/kaanaksit) or reach out to [Kaan Akşit](https://kaanaksit.com) for more details.
 
